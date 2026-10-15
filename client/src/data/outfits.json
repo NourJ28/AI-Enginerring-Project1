@@ -1,0 +1,35 @@
+
+{
+  "tops": {
+    "School": {
+      "Casual": "Basic T-Shirt",
+      "Streetwear": "Oversized Hoodie",
+      "Classic": "Polo Shirt"
+    },
+    "Party": {
+      "Casual": "Button-Down Shirt",
+      "Streetwear": "Graphic Tee",
+      "Classic": "Blazer"
+    },
+    "Work": {
+      "Casual": "Knit Sweater",
+      "Streetwear": "Oversized Jacket",
+      "Classic": "Dress Shirt"
+    }
+  },
+  "bottoms": {
+    "Casual": "Jeans",
+    "Streetwear": "Cargo Pants",
+    "Classic": "Chinos"
+  },
+  "shoes": {
+    "Casual": "White Sneakers",
+    "Streetwear": "High-Top Sneakers",
+    "Classic": "Loafers"
+  },
+  "weatherExtras": {
+    "Sunny": "Sunglasses",
+    "Rainy": "Rain Jacket",
+    "Cold": "Warm Winter Coat"
+  }
+}
